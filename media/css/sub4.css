@@ -1,0 +1,155 @@
+/* 와이드 pc  */
+.videoBox{width:100%;height:100%; overflow:hidden; position:absolute}
+#wrap .down{display: block; font-size: 15px; position: absolute; 
+   left:53%; bottom: 15%;
+  animation:ani 1s infinite  alternate;}
+@keyframes ani {
+  0% { transform:scale(1); opacity:1; color:#000;}
+  100% { transform:scale(1.2); opacity:0.8; color:#AC0000;}
+}
+#wrap .down div{background: url(https://kjy990417.cafe24.com/media/images/scroll.png)50% 0% no-repeat;padding-top: 80px}	
+
+#imgBG{
+	position:fixed; /*고정=>fixed/ 스크롤처리=>absolute */
+  left: 52.3%;
+   top:50%; /*오른쪽, 아래에 여백을 두지않고 꽉차게 표시*/
+   width:auto;
+   min-width:100%; /*동영상 너비를 꽉차게*/
+   height:auto;
+   min-height:100%; /*동영상 높이를 꽉차게*/
+  transform:translateX(-50%) translateY(-50%);
+   z-index:-100;
+}
+
+#wrap .down{display: block; font-size: 15px; position: absolute; 
+  left:47%;bottom: 8%;translate:(-50%, -50%);
+ animation:ani 1s infinite  alternate;}
+@keyframes ani {
+ 0% { transform:scale(1); opacity:1; color:#000;}
+ 100% { transform:scale(1.2); opacity:0.8; color:#AC0000;}
+}
+	
+#content{ width:96%; margin:0 auto; background:rgba(0,0,0,.7);position: relative;  }
+#content h2{position: absolute; top: -550px;font-family:'Agbalumo';
+width: 100%; text-align: center; font-size: 4.5em; color: #ac0000;}
+
+/* ALBUM */
+@keyframes rotation {
+  100% {transform: rotate(360deg);}
+}
+@keyframes eq {
+  100% {outline-offset: 100px;}
+}
+
+section{padding: 150px 10% 250px 10%;}
+section h3{font-size: 2.5em; margin-bottom: 70px;font-family:'Noto Sans KR', sans-serif;color: #AC0000;}
+
+section .playerImg{width: 50%; float: left; }
+section .playerImg img {width: 85%; transition: all .2s; }
+section .playerImg img.current{animation: rotation 6s linear infinite , eq .5s linear infinite; 
+ border-radius: 50%; outline: 5px solid rgba(255,0,0,.5);position: relative; z-index: 10;}
+
+
+section .info{margin-left: 51%;position: relative;}
+section .info dt{margin-bottom: 30px; font-size: 1.8em; font-weight: 500;color: #fff;}
+section .info dd{margin-bottom: 30px;color: #fff;font-weight: 300;font-size: 16px;line-height: 1.7em;text-align: justify;}
+section .info p{line-height: 1.5em; text-align: justify;margin-bottom: 30px;color: #fff;padding-top: 10px;font-size: 17px;}
+section .info ol{margin-left:25px; margin-bottom: 30px;font-size: 17px;}
+section .info ol li{line-height: 2em; font-size: 1em;}
+section .info ol li a{color: #fff;font-weight: 300;}
+section .info a.curr{ color: #bdfa86;padding: 5px 0;font-weight: 600;font-size: 1.2em;}
+
+section .info .audio_control{position: absolute;top: 78%;right: 0;}
+section .info .audio_control .playerControler{width: 150px; height: 50px; padding:5px 0 0 20px;border-radius: 20px;}
+section .info .audio_control .playerControler i{font-size: 1.3em; color: #fff; background:none;  cursor: pointer; display: block; float: left; display: block; float: left; padding:13px;}
+
+.other{padding: 0;width: 96%;margin: 0 auto;}
+.other ul{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 40px;
+  grid-template-areas: 
+'a b'
+'c d';}
+.grid1{grid-area: a;margin-bottom: 40px;}
+.grid2{grid-area: b;margin-bottom: 40px;}
+.grid3{grid-area: c;}
+.grid4{grid-area: d;}
+
+.other{padding-bottom: 200px;}
+.other li{width: 100%;overflow: hidden;}
+.other li:hover dl dt{color: #AC0000;font-weight: 500;}
+.other img{float: left; object-fit: cover;width: 40%;height: 100%;
+  object-position: center;margin-right: 20px;}
+  .other dl{color: #fff;}
+  .other dl dt{margin-bottom: 15px;font-size: 23px;line-height: 1.5em;font-weight: 500;}
+  .other dl dd{font-weight: 300;font-size: 17px;text-align: justify;line-height: 1.8em;}
+
+
+
+
+/* 일반 pc */
+@media screen and (max-width:1280px) {
+
+	}
+
+
+/* 테블릿 */
+@media screen and (max-width:1024px) {
+#wrap .down{left:45.5%;}
+#content{ width:100%;}
+#content h2{top: -450px;}
+section{padding: 100px 10% 80px 10%;}
+section h3{text-align: center; font-size: 2em;margin-left: 0;}
+section .info .audio_control{top: 70%;}
+section .playerImg{width:90%;margin: 0 auto; float: none;padding-bottom: 30px;}
+section .playerImg img{width: 80%;margin: 0 10%;}
+section .info{margin-left:0;}
+section .info dt{font-size: 1.5em; text-align: center;}
+section .info p{font-size: 18px;margin-bottom: 20px;}
+section .info a.curr{font-size: 1.1em;}
+.other dl dt{font-size: 20px;}
+.other dl dd{font-size: 16px;line-height: 1.5em;}
+}
+
+
+/* 소형 테블릿 */
+@media screen and (max-width:768px) {
+#wrap .down{left:43%;}
+#content h2{top: -480px;}
+.other{padding-bottom: 160px;}
+.other ul{ grid-gap: 20px;}
+.other li{width: 100%;}
+.other li:hover dl dt{color: #AC0000;font-weight: 500;}
+.other img{float: none; object-fit: cover;width: 100%;height: auto;margin-bottom: 15px;
+  object-position: center;}
+  .other dl{color: #fff;display: block;}
+  .other dl dt{margin-bottom: 10px;font-size: 18px;line-height: 1.5em;font-weight: 500;text-align: center;}
+  .other dl dd{font-weight: 300;font-size: 16px;text-align: justify;line-height: 1.8em;}
+}
+
+/* 모바일 */
+@media screen and (max-width:640px) {
+#wrap .down{left:38%;}
+#content h2{top: -420px;font-size:3em;}
+section{padding: 70px 5% 80px 5%;}
+section h3{text-align: center; font-size: 1.5em;margin-bottom: 50px;}
+section .info .audio_control{top: 60%;right: -.5%;}
+section .info dt{font-size: 1.2em; text-align: center;}
+section .info dd{font-size: 0.8em;margin-bottom: 10px;display: none;}
+section .info p{font-size: 16px;margin-bottom: 20px;margin-left: 6%;}
+section .info ol li{font-size: 17px;line-height: 1.7m;}
+.other{padding-bottom: 120px;}
+.other ul{ grid-gap: 10px;}
+.other dl dt{font-size: 18px;font-weight: 300;}
+.other dl dt:hover{font-weight: 300;}
+.other dl dd{display: none;}
+.grid1{margin-bottom: 10px;}
+.grid2{margin-bottom: 10px;}
+}
+
+/* 최소 사이즈 처리 */
+@media screen and (max-width:480px) {
+  #wrap { min-width:320px; }
+  #wrap .down{left:35.5%;}
+}
