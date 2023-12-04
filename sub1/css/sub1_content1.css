@@ -1,0 +1,36 @@
+/* 회사소개 본문 */
+#content .sea{color: #02a7cf;}
+
+#content .content_area{height: 2148px;margin-bottom: 150px;}
+
+#content .content_area p{margin: 100px 0 150px 0;text-align: center;line-height: 1.5em;font-size: 1.5em;}
+
+#content .content_area .area_01{height: 65px;}
+#content .content_area .area_01 li{overflow: hidden;}
+#content .content_area .area_01 li .con_01{float: left;margin-bottom: 33px;width: 597px;}
+#content .content_area .area_01 li .content_01{padding-top: 70px ;float: right;width: 548px}
+#content .content_area .area_01 li .content_01 dt{font-size: 1.875em;font-weight: 600;border-bottom: 4px solid #02a7cf;width: 280px;}
+#content .content_area .area_01 li .content_01 dd{padding-top: 30px;font-size: 1.125em;}
+
+#content .content_area .area_01 li .con_02{width: 597px;float: right;margin-bottom: 33px;}
+#content .content_area .area_01 li .content_02{float: left;width: 510px;padding-top: 70px;width: 400px;}
+#content .content_area .area_01 li .content_02 dt{font-size: 1.875em;font-weight: 600;border-bottom: 4px solid #02a7cf;width: 400px;margin-left: 145px;}
+#content .content_area .area_01 li .content_02 dd{padding-top: 30px;font-size: 1.125em;text-align: right;margin-left: 145px;width: 400px;}
+
+#content .content_area .area_01 li .con_03{width: 597px;float: left;}
+#content .content_area .area_01 li .content_03{width: 597px;float: right;padding-top: 70px;width: 548px}
+#content .content_area .area_01 li .content_03 dt{font-size: 1.875em;font-weight: 600;border-bottom: 4px solid #02a7cf;width: 300px;width:205px;}
+#content .content_area .area_01 li .content_03 dd{padding-top: 30px;font-size: 1.125em;}
+
+#content .info{width: 2000px;height: 200px;position: relative;left: 50%;top: 1000px;margin-left: -1000px;}
+
+#content .content_area .area_02{margin-top: 1100px;overflow: hidden;margin-left: 48px;padding-bottom: 150px;}
+#content .content_area .area_02 li{width: 324px;float: left;margin-right: 65px;}
+#content .content_area .area_02 li:last-child{margin-right: 0;}
+#content .content_area .area_02 li dt{font-size: 1.250em;text-align: center;padding: 20px 0;font-weight: 600;}
+#content .content_area .area_02 li dd{text-align: center;font-size: 1.125em;line-height: 1.5em;}
+
+
+
+
+

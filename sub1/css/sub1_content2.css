@@ -1,0 +1,36 @@
+/* 회사소개 본문 */
+#content .content_area{}
+#content .bi h3{margin: 55px 0 40px 0;font-size: 1.875em;color: #02a7cf;text-align: center;}
+#content .bi p{font-size: 1.125em;text-align: center;line-height: 1.5em;}
+#content .bi ul{overflow: hidden;}
+#content .bi ul li{float: left; margin: 100px 25px 125px 0}
+#content .bi ul li p{text-align: justify;font-size: 1.5em;font-weight: 500;margin-bottom: 35px;}
+
+#content .character h3{font-size: 1.875em; text-align: center;line-height: 1.7em;}
+#content .character h3 span{font-size: 1.5rem;}
+#content .character h3 strong{color: #02a7cf;}
+
+#content .character ul{overflow: hidden;margin: 100px 0 150px 0}
+#content .character ul .ruru{}
+#content .character ul .ruru img{width: 412px;float: left;margin-left: 90px;}
+#content .character ul .ruru dl{margin: 20px 0 100px 550px;}
+#content .character ul .ruru dl dt{font-size: 1.875em;color:#02a7cf;font-weight: 500;margin-bottom: 35px;}
+#content .character ul .ruru dl dd{font-size: 1.125em;line-height: 1.7em;}
+
+#content .character ul .reo{}
+#content .character ul .reo img{width: 412px;float: right;margin-right: 90px;}
+#content .character ul .reo dl{margin: 20px 0 100px 90px;}
+#content .character ul .reo dl dt{font-size: 1.875em;color:#02a7cf;font-weight: 500;margin-bottom: 35px;}
+#content .character ul .reo dl dd{font-size: 1.125em;line-height: 1.7em;}
+
+#content .character ul .pingping{}
+#content .character ul .pingping img{width: 412px;float: left;margin-left: 90px;}
+#content .character ul .pingping dl{margin: 20px 0 100px 550px;}
+#content .character ul .pingping dl dt{font-size: 1.875em;color:#02a7cf;font-weight: 500;margin-bottom: 35px;}
+#content .character ul .pingping dl dd{font-size: 1.125em;line-height: 1.7em;}
+
+#content .character ul .gavi{}
+#content .character ul .gavi img{width: 412px;float: right;margin-right: 90px;}
+#content .character ul .gavi dl{margin: 20px 0 100px 90px;}
+#content .character ul .gavi dl dt{font-size: 1.875em;color:#02a7cf;font-weight: 500;margin-bottom: 35px;}
+#content .character ul .gavi dl dd{font-size: 1.125em;line-height: 1.7em;}

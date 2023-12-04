@@ -1,0 +1,24 @@
+#content{width: 100%;}
+
+#content .qna {font-size: 1.7em;text-align: center;margin-top: 150px;}
+
+.faq{font-size:12px;width: 1200px;margin: 0 auto;border-bottom: 1px solid #ddd;}  
+.faq .hgroup{position:relative;width: 200px;height: 50px;margin:150px 0 0 1000px;background: #02a7cf;} 
+.faq .hgroup .all{position:absolute;color:#fff; text-decoration:none;font-size: 1.25rem;width: 200px;text-align: center;padding-top: 10px;}  
+.faq ul{margin-top: 50px;padding:0;list-style:none}  
+.faq .q{margin:0;border-top:1px solid #ddd; position: relative;}
+.faq .q a.trigger{display:block;padding:30px 30px;color:#333;text-align:left;text-decoration:none ;font-size: 1.25rem;background: #f8f8f8;} 
+.faq .q a.trigger span{font-size: 1.25rem;}
+.faq .hide .q a.trigger{font-weight:normal;}  
+.faq .q a.trigger:hover,  
+.faq .q a.trigger:active,  
+.faq .q a.trigger:focus{background:#02a7cf;color:#fff} 
+.faq .q span{display: block; position: absolute; right: 20px; top:30px} 
+.faq .q span i{font-size: 1.5rem;}
+.faq .a{margin:0;padding:40px 40px;line-height:2em;text-align: justify;
+    margin-top:0px; margin-bottom:0px; 
+    ; display: none;font-size: 1.1rem;} 
+
+#footerArea{margin-top: 150px;}
+
+

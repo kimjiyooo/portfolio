@@ -1,0 +1,30 @@
+#content{position: relative;}
+#content section{position: relative;margin-left: 4px;}
+#content section div{float: left;width: 590px;margin: 0 0 200px 3px}
+#content p{margin: 150px 0 70px ;text-align: center;font-size: 2em;font-weight: 400;}
+#content .visual_fee{width: 100%;height: 600px;background: url(../images/content3/visual_fee.jpg) center no-repeat fixed;margin-bottom: 950px;}
+#content .section_fee{position: absolute;top: 1350px;}
+#content .fee{width: 593px;height: 60px;border-top: 1px solid #999;border-left: 1px solid #999;text-align: center;background: #f4f4f4;padding-top: 25px;font-size: 1.375em;font-weight: 400;}
+
+#content .ticket{width: 593px;height: 150px;border-left: 1px solid #999;border-bottom: 1px solid #999;}
+#content .ticket li{font-size: 1.2em;margin-left:40px;padding-top: 30px;}
+#content .ticket li span{margin-left: 310px;}
+#content .note_01{width: 593px;height: 350px;border-left: 1px solid #999;border-bottom: 1px solid #999;}
+#content .note_01 .notice{font-size: 1em;padding-top: 150px;margin-left: 30px;}
+
+
+#content .marin_fee{width: 590px;height: 60px;border-left: 1px solid #999;border-top: 1px solid #999;border-right: 1px solid #999;text-align: center;background: #f4f4f4;padding-top: 25px;font-size: 1.375em;font-weight: 400;}
+#content .marin_ticket{width: 590px;height: 150px;border-left: 1px solid #999;border-right: 1px solid #999;border-bottom: 1px solid #999;}
+#content .marin_ticket li{font-size: 1.2em;margin-left:40px;padding-top: 30px;}
+#content .marin_ticket li span{margin-left: 320px;}
+#content .marin_ticket li .doctor{margin-left: 338px;}
+
+
+
+#content .note_02{width: 590px;height: 350px;border-right: 1px solid #999;border-left: 1px solid #999;border-bottom: 1px solid  #999;}
+#content .note_02 .marin{font-size: 1.2em;padding-top: 40px;margin-left: 30px;font-weight: 500;}
+#content .note_02 .rin{font-size: 1em;padding-top: 10px;margin-left: 30px;}
+
+#content section a{width: 150px;height: 40px;border: 1px solid #999;position: absolute;top: 630px;left: 1038px;text-align: center;padding-top: 10px;font-size: 1.2em;}
+#content section a:hover{background-color: #f4f4f4;}
+

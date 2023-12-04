@@ -1,0 +1,28 @@
+#content  .tabs{margin-top: 150px;}
+#content  .tabs .tab_box{margin:0 auto;border-bottom: 1px solid #ccc;}
+#content  .tabs .tab_box ul{overflow: hidden;width: 100%;margin-left: 200px;}
+#content  .tabs .tab_box li{width: 400px;float: left;text-align: center;}
+#content  .tabs .tab_box li a{padding: 20px 0;font-size: 1.2em;}
+#content  .tabs .tab_box li:hover a,#content .tab_box li .current{border-bottom: 3px solid #02a7cf;font-weight: 700;}
+
+#content .contlist{width: 1200px;margin: 0 auto;margin-bottom: 150px;display: none;}
+#content .contlist h3{font-size: 2em; text-align: center;margin: 150px 0 30px 0;}
+#content .contlist .address{font-size: 1.5em;text-align: center;margin-bottom: 50px;font-weight: 400;}
+#content .contlist #map{width: 1000px;margin: 0 auto;height: 500px;border: 1px solid #999;margin-bottom: 100px;}
+#content .contlist h4{font-size: 1.7em;font-weight: 500;width: 1000px;margin: 0 auto;}
+#content .contlist .subway{margin:20px 0 50px 0}
+#content .contlist .subway li{font-size: 1.125em;width: 1000px;margin: 0 auto;list-style: disc;margin-bottom: 5px;}
+#content .contlist .subway .note{list-style: none;font-size: 1em;margin-top: 20px;}
+#content .contlist .bus{margin-top: 20px;}
+#content .contlist .bus li{font-size: 1.125em;width: 1000px;margin: 0 auto;margin-bottom: 5px;list-style: disc;}
+#content .contlist li span{font-weight: 600;}
+
+#content .contlist h3{font-size: 2em; text-align: center;margin-bottom: 100px;}
+#content .contlist h4 span{color: #02a7cf;font-size: 1.5em;}
+#content .contlist img{width: 898px;margin:50px 0 100px 150px;}
+
+#content .contlist dl{margin: 0 0 30px 120px}
+#content .contlist dl dt{font-size: 1.3em;font-weight: 500;margin: 50px 0 10px 0;}
+#content .contlist dl dd{font-size: 1.1em;margin-bottom: 5px;}
+
+

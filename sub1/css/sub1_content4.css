@@ -1,0 +1,25 @@
+#content .fac{color: #02a7cf;}
+
+#content .organization h3{font-size: 1.5em;font-weight: 600;margin:150px 0 35px 70px}
+#content .organization h3 span{font-size: 2rem;color: #02a7cf;}
+
+#content .organization ul{border: 2px solid #dedede;width: 1030px;height: 400px;margin: 0 auto;}
+#content .organization ul li{width: 201px;float: left;margin: 35px 0 35px 48px;}
+#content .organization ul li p{font-size: 1em;text-align: center;margin: 3px;}
+#content .organization ul li p:hover{color: #02a7cf;}
+
+#content .education h3{font-size: 1.5em;font-weight: 600;margin:150px 0 35px 70px}
+#content .education h3 span{font-size: 2rem;color: #02a7cf;}
+
+#content .education ul{border: 2px solid #dedede;width: 1030px;height: 400px;margin: 0 auto;}
+#content .education ul li{width: 201px;float: left;margin: 35px 0 35px 40px;}
+#content .education ul li p{font-size: 1em;text-align: center;margin: 3px 0;}
+#content .education ul li p:hover{color: #02a7cf;}
+
+#content .company h3{font-size: 1.5em;font-weight: 600;margin:150px 0 35px 70px}
+#content .company h3 span{font-size: 2rem;color: #02a7cf;}
+
+#content .company ul{border: 2px solid #dedede;width: 1030px;height: 400px;margin: 0 auto;margin-bottom: 150px;}
+#content .company ul li{width: 201px;float: left;margin: 35px 0 35px 45px;}
+#content .company ul li p{font-size: 1em;text-align: center;margin: 3px 0;}
+#content .company ul li p:hover{color: #02a7cf;}

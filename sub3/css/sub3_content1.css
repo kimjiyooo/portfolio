@@ -1,0 +1,75 @@
+#content .tabs{}
+#content .tabs .tab_box{border-bottom: 1px solid #ccc;width: 100%;}
+#content .tabs .tab_box ul{overflow: hidden;margin:150px 0 0 210px;}
+#content .tabs .tab_box li{width: 260px;float: left;text-align: center;}
+#content .tabs .tab_box li a{padding: 20px 0;font-size: 1.2em;}
+#content .tabs .tab_box li:hover a,#content ul li .current{border-bottom: 3px solid #02a7cf;font-weight: 700;}
+
+#content .contlist{display: none;}
+#content .contlist h3{margin: 150px 0 70px ;text-align: center;font-size: 2em;font-weight: 400;}
+#content .contlist div{width: 1100px;height: 350px;margin-top: 50px;background: #f8f8f8;transition: all .5s ease;} 
+#content .contlist div:hover{transform: scale(1.08);}
+#content .contlist img{width: 490px;height: 300px;float: left;margin: 25px;border-radius: 10px;}
+#content .contlist dl{padding: 40px 50px 20px 50px;}
+#content .contlist dt{font-size: 1.5em;font-weight: bold;margin-bottom: 20px;}
+#content .contlist dd{font-size: 1.2em;}
+#content .contlist ul li{float: left;font-size: 1em;margin-bottom: 3px;width: 500px;font-size: 1.1em;list-style: disc;margin-left: 20px;}
+#content .contlist div{position: relative;}
+#content .contlist div a{position: absolute;top: 290px;right : 40px;color: #02a7cf;font-weight: 500;}
+#content .contlist div a:hover{border-bottom: 1px solid #02a7cf;}
+#content .contlist ul span{font-weight: 500;}
+
+#data{width: 900px;height: 600px;}
+#data p{font-size: 2em;margin-bottom: 15px;text-align: center;padding-top: 30px;font-weight: 500;}
+#data dl{padding: 50px;}
+#data dl dt{font-size: 1.4em;color: #02a7cf;margin-bottom: 30px;font-weight: 500;text-align: justify;}
+#data dl dd{font-size: 1.1em;line-height: 1.7em;}
+#data ul{padding: 20px 50px 0 50px;}
+#data ul li{font-size: 1.1em;line-height: 1.7em;list-style: disc;}
+
+#data2{width: 900px;height: 600px;}
+#data2 p{font-size: 2em;margin-bottom: 15px;text-align: center;padding-top: 30px;font-weight: 500;}
+#data2 dl{padding: 30px 50px;}
+#data2 dl dt{font-size: 1.4em;color: #02a7cf;margin-bottom: 30px;font-weight: 500;text-align: justify;}
+#data2 dl dd{font-size: 1.1em;line-height: 1.7em;}
+
+#data3{width: 900px;height: 600px;}
+#data3 p{font-size: 2em;margin-bottom: 15px;text-align: center;padding-top: 30px;font-weight: 500;}
+#data3 dl{padding: 30px 50px;}
+#data3 dl dt{font-size: 1.4em;color: #02a7cf;margin-bottom: 30px;font-weight: 500;text-align: justify;}
+#data3 dl dd{font-size: 1.1em;line-height: 1.7em;}
+
+#data4{width: 900px;height: 600px;}
+#data4 p{font-size: 2em;margin-bottom: 15px;text-align: center;padding-top: 30px;font-weight: 500;}
+#data4 dl{padding: 30px 50px;}
+#data4 dl dt{font-size: 1.4em;color: #02a7cf;margin-bottom: 30px;font-weight: 500;text-align: justify;}
+#data4 dl dd{font-size: 1.1em;line-height: 1.7em;}
+
+#data5{width: 900px;height: 600px;}
+#data5 p{font-size: 2em;margin-bottom: 15px;text-align: center;padding-top: 30px;font-weight: 500;}
+#data5 dl{padding: 30px 50px;}
+#data5 dl dt{font-size: 1.4em;color: #02a7cf;margin-bottom: 30px;font-weight: 500;text-align: justify;}
+#data5 dl dd{font-size: 1.1em;line-height: 1.7em;}
+
+#data6{width: 900px;height: 600px;}
+#data6 p{font-size: 2em;margin-bottom: 15px;text-align: center;padding-top: 30px;font-weight: 500;}
+#data6 dl{padding: 30px 50px;}
+#data6 dl dt{font-size: 1.4em;color: #02a7cf;margin-bottom: 30px;font-weight: 500;text-align: justify;}
+#data6 dl dd{font-size: 1.1em;line-height: 1.7em;}
+
+#data7{width: 900px;height: 600px;}
+#data7 p{font-size: 2em;margin-bottom: 15px;text-align: center;padding-top: 30px;font-weight: 500;}
+#data7 dl{padding: 30px 50px;}
+#data7 dl dt{font-size: 1.4em;color: #02a7cf;margin-bottom: 30px;font-weight: 500;text-align: justify;}
+#data7 dl dd{font-size: 1.1em;line-height: 1.7em;}
+
+#data8{width: 900px;height: 600px;}
+#data8 p{font-size: 2em;margin-bottom: 15px;text-align: center;padding-top: 30px;font-weight: 500;}
+#data8 dl{padding: 30px 50px;}
+#data8 dl dt{font-size: 1.4em;color: #02a7cf;margin-bottom: 30px;font-weight: 500;text-align: justify;}
+#data8 dl dd{font-size: 1.1em;line-height: 1.7em;}
+
+
+
+#footerArea{margin-top: 150px;}
+

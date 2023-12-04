@@ -1,0 +1,72 @@
+#content .content_area{}
+#content .content_area h3{font-size:1.875em;text-align: center;margin: 55px 0 100px 0;line-height: 1.7em;font-weight: 400;}
+#content .content_area h3 span{font-size: 1.5rem;color: #02a7cf;font-weight: 600;}
+
+#content .content_area ul{overflow: hidden;}
+#content .content_area ul .bell{margin: 0 0 115px 30px;}
+#content .content_area ul .bell img{width: 549px;float: left;margin-bottom: 55px;}
+#content .content_area ul .bell dl{padding-top: 15px;margin: 0 0 39px 610px;}
+#content .content_area ul .bell dt{font-size: 1.875em;font-weight: 600;margin-bottom: 20px;}
+#content .content_area ul .bell dt span{font-size: 1.5rem;color: #02a7cf}
+#content .content_area ul .bell dd{font-size: 1.25em;line-height: 1.7em;}
+
+#content .content_area ul .cali{margin: 0 0 145px 30px;}
+#content .content_area ul .cali img{width: 549px;float: right;}
+#content .content_area ul .cali dl{padding-top: 15px;margin-bottom: 73px;}
+#content .content_area ul .cali dt{font-size: 1.875em;font-weight: 600;margin-bottom: 20px;}
+#content .content_area ul .cali dt span{font-size: 1.5rem;color: #02a7cf}
+#content .content_area ul .cali dd{font-size: 1.25em;line-height: 1.7em;}
+
+#content .content_area ul .cham{margin: 0 0 155px 30px;}
+#content .content_area ul .cham img{width: 549px;float: left;}
+#content .content_area ul .cham dl{padding-top: 15px;margin: 0 0 73px 610px;}
+#content .content_area ul .cham dt{font-size: 1.875em;font-weight: 600;margin-bottom: 20px;}
+#content .content_area ul .cham dt span{font-size: 1.5rem;color: #02a7cf}
+#content .content_area ul .cham dd{font-size: 1.25em;line-height: 1.7em;}
+
+#content .content_area ul .hum{margin: 0 0 165px 30px;}
+#content .content_area ul .hum img{width: 549px;float: right;}
+#content .content_area ul .hum dl{padding-top: 20px;margin-bottom: 102px;}
+#content .content_area ul .hum dt{font-size: 1.875em;font-weight: 600;margin-bottom: 20px;}
+#content .content_area ul .hum dt span{font-size: 1.5rem;color: #02a7cf}
+#content .content_area ul .hum dd{font-size: 1.25em;line-height: 1.7em;}
+
+#content .content_area ul .pira{margin: 0 0 165px 30px;}
+#content .content_area ul .pira img{width: 549px;float: left;}
+#content .content_area ul .pira dl{padding-top: 35px;margin: 0 0 87px 610px;}
+#content .content_area ul .pira dt{font-size: 1.875em;font-weight: 600;margin-bottom: 20px;}
+#content .content_area ul .pira dt span{font-size: 1.5rem;color: #02a7cf}
+#content .content_area ul .pira dd{font-size: 1.25em;line-height: 1.7em;}
+
+#content .content_area ul .mae{margin: 0 0 145px 30px;}
+#content .content_area ul .mae img{width: 549px;float: right;}
+#content .content_area ul .mae dl{padding-top: 20px;margin-bottom: 68px;}
+#content .content_area ul .mae dt{font-size: 1.875em;font-weight: 600;margin-bottom: 20px;}
+#content .content_area ul .mae dt span{font-size: 1.5rem;color: #02a7cf}
+#content .content_area ul .mae dd{font-size: 1.25em;line-height: 1.7em;}
+
+#content .content_area ul .turtle{margin: 0 0 300px 30px;}
+#content .content_area ul .turtle img{width: 549px;float: left;}
+#content .content_area ul .turtle dl{padding-top: 35px;margin: 0 0 87px 610px;}
+#content .content_area ul .turtle dt{font-size: 1.875em;font-weight: 600;margin-bottom: 20px;}
+#content .content_area ul .turtle dt span{font-size: 1.5rem;color: #02a7cf}
+#content .content_area ul .turtle dd{font-size: 1.25em;line-height: 1.7em;}
+
+.friends{width:1200px; margin:0 auto 150px;}
+.friends h3{font-size: 1.5em; text-align: center; margin: 40px 0;}
+.friends label{margin-left: 50px;}
+
+.friends .serch_box{width:570px; margin: 20px auto 50px;}
+.friends .serch_box label{font-size: 22px;}
+.friends .serch_box input{font-size: 20px;padding:5px 10px; ; border: 0; border-bottom: 1px solid #999;}
+.friends .serch_box button{width: 80px; padding: 5px 0; font-size: 18px; border: 0; background: #02a7cf; color: #fff; font-weight: bold; border-radius: 10px;}
+.friends .serch_box .btn_all{background: #02a7cf;}
+
+.friends ul{margin:150px 0 0 25px;}
+.friends li{text-align: center;margin-bottom: 80px;overflow: hidden;}
+.friends li img{width: 550px;float:left;}
+.friends li dl{margin:80px 0 0 610px;text-align: justify;} 
+.friends li dt{font-size: 1.875em; font-weight: 600; margin-bottom: 30px;}
+.friends li dd{font-size: 1.25em;line-height: 1.7em;}
+
+

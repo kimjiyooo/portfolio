@@ -1,0 +1,34 @@
+#content p{font-size: 1.5em;text-align: center;line-height: 1.7em;margin: 150px 0 100px 0;}
+#content .visual_group{width: 100%;height: 300px;background: url(../images/content1/visual_group.jpg) center bottom no-repeat fixed;margin-bottom: 150px;}
+#content .content_01 h3{font-size: 1.875em;font-weight: 600;text-align: center;margin-bottom: 70px;}
+#content .content_01 ul{overflow: hidden;margin-bottom: 150px;padding: 20px 0 50px 20px;}
+#content .content_01 ul li{width: 250px;height: 250px;background: #f0f9ff;border-radius: 50%;box-shadow: 5px 5px 15px rgba(0,0,0,.1);float: left;margin-left: 100px;position: relative;text-align: center;}
+#content .content_01 ul li strong{position: absolute;top: 190px;right: 68px;width: 110px;}
+#content .content_01 ul li i{font-size: 6em;position: absolute;width: 130px;top: 60px;right: 58px}
+#content .content_01 ul li:hover{transition: all .5s ease;background-color: #02a7cf;}
+#content .content_01 ul li:hover a{color: #fff;}
+
+#content .content_02 h3{font-size: 1.875em;font-weight: 600;text-align: center;margin-bottom: 70px;}
+#content .content_02 .con_01{overflow: hidden;padding: 20px 0 15px 200px;}
+#content .content_02 .con_01 li{width: 250px;height: 250px;background: #f0f9ff;border-radius: 50%;box-shadow: 5px 5px 15px rgba(0,0,0,.1);float: left;margin-left: 100px;position: relative;text-align: center;}
+#content .content_02 .con_01 li strong{position: absolute;top: 190px;right: 50px;width: 150px;}
+#content .content_02 .con_01 li i{font-size: 6em;position: absolute;width: 130px;top: 60px;right: 58px}
+#content .content_02 .con_01 li:hover{transition: all .5s ease;background-color: #02a7cf;}
+#content .content_02 .con_01 li:hover a{color: #fff;}
+
+#content .content_02 .con_02{overflow: hidden;margin-bottom: 150px;padding: 15px 0 100px 20px;}
+#content .content_02 .con_02 li{width: 250px;height: 250px;background: #f0f9ff;border-radius: 50%;box-shadow: 5px 5px 15px rgba(0,0,0,.1);float: left;margin-left: 100px;position: relative;text-align: center;}
+#content .content_02 .con_02 li strong{position: absolute;top: 190px;right: 50px;width: 150px;}
+#content .content_02 .con_02 li i{font-size: 6em;position: absolute;width: 130px;top: 60px;right: 58px}
+#content .content_02 .con_02 li:hover{transition: all .5s ease;background-color: #02a7cf;}
+#content .content_02 .con_02 li:hover a{color: #fff;}
+
+#content .content_03 h3{font-size: 1.875em;font-weight: 600;text-align: center;margin-bottom: 100px;}
+#content .content_03 ul{}
+#content .content_03 ul li{list-style: disc;margin:0 0 7px 15px;font-size: 1em;}
+#content .content_03 table{width: 1200px;margin: 50px 0 150px 0;}
+#content .content_03 table th{padding: 15px;border-top: 3px solid #02a7cf;font-size: 1.2em;}
+#content .content_03 table td{border: 1px solid #ddd6d6;text-align: center;padding: 8px;font-size: 1.1em;}
+
+
+

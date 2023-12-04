@@ -1,0 +1,17 @@
+#content section h3{font-size: 2.5em;font-weight: 600;text-align: center;margin: 150px 0 50px 0;}
+#content section .con_01{overflow: hidden;padding: 50px;}
+#content section .con_01 div{margin-top: 40px;}
+#content section .con_01 img{float: left;border-radius: 30px;}
+#content section .con_01 dl{margin: 0 0 30px 650px;text-align: justify;}
+#content section .con_01 dl dt{font-size: 1.5em;font-weight: 500;margin:40px 0 20px 0;}
+#content section .con_01 dl dt i{color: #02a7cf;}
+#content section .con_01 dl dd{font-size: 1.2em;font-weight: 400;margin-bottom: 5px;}
+
+
+#content section .con_02{overflow: hidden;padding: 50px;margin-bottom: 100px;}
+#content section .con_02 div{margin-top: 70px;}
+#content section .con_02 img{float: right;border-radius: 30px;margin-right: -50px;}
+#content section .con_02 dl{margin: 0 0 30px 120px;width: 350px;text-align: justify;}
+#content section .con_02 dl dt{font-size: 1.5em;font-weight: 500;margin:40px 0 20px 0;}
+#content section .con_02 dl dt i{color: #02a7cf;}
+#content section .con_02 dl dd{font-size: 1.2em;font-weight: 400;margin-bottom: 5px;}

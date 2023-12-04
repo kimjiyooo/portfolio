@@ -1,0 +1,18 @@
+#content .convenient{width: 100%;background: url(../images/program.jpg) repeat-x}
+#content .convenient .convenient_inner{width: 1200px;margin: 0 auto;}
+#content .convenient h3{font-size: 1.625em;font-weight: 700;text-align: center;margin:150px 0 30px 0}
+#content .convenient p{font-size: 1.125em;margin-bottom: 50px;text-align: center;}
+#content .convenient ul{overflow: hidden;margin-bottom:150px; padding: 25px; margin-left: 20px;}
+#content .convenient li{float: left;width: 349px;position: relative;overflow: hidden;margin-right: 30px; transition: all .5s;border-radius: 40px;}
+#content .convenient li:hover{box-shadow: 2px 2px 20px 2px rgba(0,0,0,.7);}
+#content .convenient li:last-child{margin-right: 0;}
+#content .convenient li img{width: 349px;height: 550px;transition: all .5s;}
+#content .convenient li:hover img{transform: scale(1.1); filter: blur(4px);}
+#content .convenient li dl{width: 349px;height: 550px;position: absolute;left: 0px;top: 465px;
+                              background: rgba(0,0,0,.5);transition: all .5s ease;}
+#content .convenient li:hover dl{top: 0;background: rgba(0,0,0,.7);}
+#content .convenient li dt{font-size: 1.563em;font-weight: 700;text-align: center;color: #fff;margin: 25px 25px 50px 25px; transition: all .5s;}
+#content .convenient li:hover dt{font-size: 1.9em;margin-top: 130px;}
+#content .convenient li dd{font-size: 1em;color: #fff;text-align: justify;line-height: 1.7em;margin: 0 35px;font-weight: 300;}
+#content .convenient li dd span{margin-top: 50px;display: block;text-align: center;}
+#content .convenient li:hover dd{font-size: 1em;color: #fff;text-align: justify;line-height: 1.7em;margin: 0 35px;font-weight: 300;}
