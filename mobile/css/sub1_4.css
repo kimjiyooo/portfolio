@@ -1,0 +1,9 @@
+.contentArea h3{font-size: 20px;font-weight: 600;margin-left: 10px;margin-bottom: 10px;}
+.contentArea h3 i{margin-right: 8px;color: #02A7CF;}
+.contentArea ul{border: 1px solid #999;width: 94%;margin-left: 3%;overflow: hidden;
+margin-bottom: 30px;}
+.contentArea ul li{float: left;width: 45.5%;margin-left: 3.3%;margin-top: 15px;}
+.contentArea ul li img{width: 45.5%;margin-bottom: 10px;margin-left: 26%;}
+.contentArea ul li a{text-align: center;font-size: 11px;padding: 15px 0;margin-bottom: 3px;}
+
+#footerArea{margin-top: 70px;}

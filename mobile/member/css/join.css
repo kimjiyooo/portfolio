@@ -1,0 +1,38 @@
+body{background-color: #eee; font-size: 16px; }
+h1 a{margin:20px auto 30px; display: block; width: 142px; height: 92px; text-indent: -9999px; overflow: hidden;
+    background: url(http://kjy990417.cafe24.com/common/images/logo_02.png) center no-repeat;}
+
+
+    #content{width: 90%; background: #fff;border-radius: 10px;margin: 0 auto
+    ; font-family: 'Noto Sans KR', sans-serif; font-weight: 500;margin-bottom: 100px;}
+
+#content>span{font-size: 20px; font-weight: 700; position: relative; display: block;text-align: center;padding-top: 20px;}
+#content>p{color: #999; position: relative; margin-top: 10px; font-weight: 400;text-align: center;padding-top: 10px;font-size: 13px;}
+#content>p::before{content: '*'; color: red; margin-right: 5px;}
+
+#content form li{margin: 20px;width: 96%;margin-left: 4%;font-size: 13px;}
+#content form li label{display: block; font-weight: 500;font-size: 13px;padding-bottom: 10px;}
+#content form li label::after{content: '*'; color: red;}
+#content form li span{color: red;}
+
+#content form li input{border: 1px solid #eee; width: 96%; height: 40px; margin-top: 5px;
+    border-radius: 5px; font-size: 1.1em; box-sizing: border-box;}
+#content form li input#hp2, #content form li input#hp3{width: 29%;} 
+#content form li #hp1{width: 29%; height: 40px; padding-left: 10px; font-family: 'Noto Sans KR', sans-serif; font-size: 1.1em; border-radius: 5px;}
+#content form li input::placeholder{color: #ddd; font-family: 'Noto Sans KR', sans-serif; font-weight: 300; font-size: .9em;} 
+
+#content form li input#mail1, #content form li input#mail2{width: 44.5%;}
+
+#content form li input:focus{outline-color: #02a7cf;}
+
+#content form li:last-child{margin-bottom: 40px;}
+
+#content input[type=submit]{border: 0; background: #02a7cf; color: #fff; 
+    font-family: 'Noto Sans KR', sans-serif; width: 30%; padding: 10px 0;
+    border-radius: 7px; font-size: 15px; cursor: pointer;}
+
+    #content .sub{width: 100%;text-align: center;padding-bottom: 30px;margin-bottom: -50px;} 
+
+#content input[type=reset]{border: 1px solid #02a7cf; color: #02a7cf; background: #fff;
+    font-family: 'Noto Sans KR', sans-serif; width: 30%; padding: 10px 0;
+    border-radius: 7px; font-size: 15px; margin-left: 10px; cursor: pointer;}

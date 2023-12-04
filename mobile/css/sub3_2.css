@@ -1,0 +1,18 @@
+#content .contentArea h3{font-size: 15px;text-align: center;font-weight: 500;}
+#content .contentArea h3 span{color: #02A7CF;margin-top: 10px;margin-bottom: 10px;}
+#content .contentArea .open p{text-align: justify;margin:30px 0 10px 3%;color: #333;}
+#content .contentArea .open ul{overflow: hidden;width: 94%;margin: 10px 0 20px 3%;}
+#content .contentArea .open ul li{float: left;width: 19.2%;height: 80px;margin-right: 1%;font-size: 45px;text-align: center;background: #F4F4F4;font-weight: 300;border-radius: 10px;padding-top: 7px;}
+#content .contentArea .open ul li:last-child{margin-right: 0;}
+
+#content .contentArea .clock{font-size: 40px;margin:20px 0 0 48%;}
+
+#content .contentArea .closed p{text-align: justify;margin:0 0 10px 3%;color: #333;}
+#content .contentArea .closed ul{overflow: hidden;width: 94%;margin: 0 0 50px 3%;}
+#content .contentArea .closed ul li{float: left;width: 19.2%;height: 80px;margin-right: 1%;font-size: 45px;text-align: center;background: #F4F4F4;font-weight: 300;border-radius: 10px;padding-top: 7px;}
+#content .contentArea .closed ul li:last-child{margin-right: 0;}
+#content .titleArea h2::after{background: none;}
+#content .titleArea .title::after{content: "";display: block;background:#02A7CF; width: 2px;height: 30px;position: absolute;left: 50%;bottom: -80px;z-index: 10;}
+#calendar{width: 96%;margin: 0 auto;}
+
+#footerArea{margin-top: 50px;}

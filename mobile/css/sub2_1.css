@@ -1,0 +1,18 @@
+#content .contentArea .tabs{border-bottom: 1px solid #ccc;width: 94%;margin-left: 3%;}
+#content .contentArea .tabs ul{overflow: hidden;width: 90%;margin-left: 11%;}
+#content .contentArea .tabs ul li{float: left;width: 43%;}
+#content .contentArea .tabs ul li a{font-size: 15px;text-align: center;padding: 5px 0;color: #333;}
+#content .contentArea img{margin:0 0 40px 3%;width: 94%;}
+#content .contentArea h3{font-size: 20px;text-align: center;font-weight: 600;margin: 50px 0 10px 0;}
+#content .contentArea p{font-size: 14px; text-align: center;color: #333;font-weight: 400;margin: 0 0 50px 3%;width: 94%;}
+#content .contentArea dl{width: 94%;margin:0 0 30px 3%;}
+#content .contentArea dl dt{font-size: 18px;margin-bottom: 10px;font-weight: 500;}
+#content .contentArea dl dt span{font-size: 20px;color: #02A7CF;}
+#content .contentArea dl dd{margin:0 0 5px 15px;}
+#content .contentArea .contlist{display: none;}
+
+
+
+
+
+#footerArea{margin-top: 70px;}
